@@ -16,5 +16,5 @@ function logWhisper(string) {
 }
 
 function logShout(string) {
-  console.log(shout(string))
+  
 }
