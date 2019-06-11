@@ -11,6 +11,6 @@ function logShout(string) {
 }
 
 
-function whisper(string) {
+function logWhisper(string) {
   console.log(whisper(string))
 }
