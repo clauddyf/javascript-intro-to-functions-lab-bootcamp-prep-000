@@ -20,7 +20,7 @@ function sayHiToGrandma(string) {
     return "I can\'t hear you!" 
   } elseif (shout(string)) {
     return "YES INDEED!"
-  } else { (console.log("I love you, too."))
+  } elseif { (console.log("I love you, too."))
   
     
   
